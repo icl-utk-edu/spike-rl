@@ -8,10 +8,6 @@
 - [Features](#features)
 - [Installation](#installation)
 - [Requirements](#requirements)
-<!-- - [Usage](#usage)
-- [Examples](#examples)
-- [Contributing](#contributing)
-- [License](#license) -->
 - [Contact](#contact)
 
 ## Introduction
@@ -38,7 +34,7 @@ Follow the steps below to set up SpikeRL on your local machine.
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/tokey-tahmid/spike-rl.git
+   git clone https://github.com/icl-utk-edu/spike-rl.git
    cd spike-rl
    ```
 
