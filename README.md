@@ -67,6 +67,8 @@ pyglet
 six
 pillow
 imageio
+tqdm
+codecarbon
 scipy
 scikit-learn
 pandas
